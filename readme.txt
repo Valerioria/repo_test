@@ -7,3 +7,4 @@ change readme in test1 branch
 change readme after test1 branched
 >>>>>>> test1
 try to generate a patch file
+I push a new patch
